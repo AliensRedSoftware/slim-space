@@ -1,4 +1,5 @@
 # SS | Слим спейс - Наш сайт и наше общение
+[![logo.png](https://github.com/AliensRedSoftware/slim-space/blob/main/img/logo.png)](https://github.com/AliensRedSoftware/slim-space/blob/main/img/logo.png)
 -> Описание:Сайт для анонимного общение бесплатный
 
 # Наши ссылки
@@ -81,7 +82,7 @@
 ### Закрепить баннер рекламу - 3000 рублей (Месяц) 
 ### Root (права суперпользователя) - 100000 руб (100+ лет)
 
-## Список персонала -
-
-### Суперпользователь - (Хирин \ Эля)
+## Список персонала
+[![author.jpg](https://github.com/AliensRedSoftware/slim-space/blob/main/img/author.jpg)](https://github.com/AliensRedSoftware/slim-space/blob/main/img/author.jpg)
+### Суперпользователь - ($Хирин \ Эля)
 
