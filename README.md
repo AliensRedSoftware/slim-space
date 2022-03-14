@@ -21,7 +21,7 @@
 \ Описание:При пожертвование возможно реклама пожалуйста будьте немного бдительным проходите рекламу бесплатно
 
 [![paypal.svg](https://github.com/AliensRedSoftware/slim-space/blob/main/img/paypal.svg)](https://github.com/AliensRedSoftware/slim-space/blob/main/img/paypal.svg)
-* Основной paypal [Пожертвовать](https://paypal.me/xirin1337)
+* Основной paypal [Пожертвовать](http://zccl.xyz/8xcS)
 
 [![qiwi.svg](https://github.com/AliensRedSoftware/slim-space/blob/main/img/qiwi.svg)](https://github.com/AliensRedSoftware/slim-space/blob/main/img/qiwi.svg)
 * Основной Qiwi [Пожертвовать](http://zccl.xyz/9xcS)
@@ -82,8 +82,8 @@
 
 ## Услуги группы
 
-### Закрепить баннер рекламу - 3000 рублей (Месяц) 
-### Root (права суперпользователя) - 100000 руб (100+ лет)
+### Закрепить баннер рекламу - 3000 касика (Месяц) 
+### Root (права суперпользователя) - 100000 касиков (100+ лет)
 
 ## Список персонала
 [![author.jpg](https://github.com/AliensRedSoftware/slim-space/blob/main/img/author.jpg)](https://github.com/AliensRedSoftware/slim-space/blob/main/img/author.jpg)
