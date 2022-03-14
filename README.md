@@ -20,7 +20,10 @@
 [![donate.png](https://github.com/AliensRedSoftware/slim-space/blob/main/img/donate.png)](https://github.com/AliensRedSoftware/slim-space/blob/main/img/donate.png)
 \ Описание:При пожертвование возможно реклама пожалуйста будьте немного бдительным проходите рекламу бесплатно
 
+[![paypal.svg](https://github.com/AliensRedSoftware/slim-space/blob/main/img/paypal.svg)](https://github.com/AliensRedSoftware/slim-space/blob/main/img/paypal.svg)
 * Основной paypal [Пожертвовать](https://paypal.me/xirin1337)
+
+[![qiwi.svg](https://github.com/AliensRedSoftware/slim-space/blob/main/img/qiwi.svg)](https://github.com/AliensRedSoftware/slim-space/blob/main/img/qiwi.svg)
 * Основной Qiwi [Пожертвовать](http://zccl.xyz/9xcS)
 
 # Установка
