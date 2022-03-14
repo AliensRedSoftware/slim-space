@@ -17,7 +17,7 @@
 
 # Пожертвование (Мани на лечение наших пациентов)
 [![donate.png](https://github.com/AliensRedSoftware/slim-space/blob/main/img/donate.png)](https://github.com/AliensRedSoftware/slim-space/blob/main/img/donate.png)
--> Описание:При пожертвование возможно реклама пожалуйста будьте немного бдительным проходите рекламу бесплатно
+\ Описание:При пожертвование возможно реклама пожалуйста будьте немного бдительным проходите рекламу бесплатно
 
 * Основной paypal [Пожертвовать](https://paypal.me/xirin1337)
 * Основной Qiwi [Пожертвовать](http://zccl.xyz/9xcS)
