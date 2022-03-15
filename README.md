@@ -5,6 +5,9 @@
 # Наши ссылки
 * SS в торе [Нажми меня чтобы перейти :)](http://nzonq5ckiszeqfslp6sxsla3o6qarqselbuct6jgbd3jpf6mopnn2fqd.onion)
 
+# Клиент для использование SS (CAPI)
+[jlil (win/mac/lin)](https://github.com/AliensRedSoftware/jlil)
+
 # Наши друзья
 -
 
