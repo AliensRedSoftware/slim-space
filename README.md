@@ -12,25 +12,25 @@
 -
 
 # Основные thread (coomunity)
-* Основной [matrix](http://zccl.xyz/CwcS)
-* Основной [vk](http://zccl.xyz/1xcS)
-* Основной [youtube](http://zccl.xyz/2xcS)
-* Основной [twitch](http://zccl.xyz/3xcS)
-* Основной [telegram](http://zccl.xyz/4xcS)
-* Основной [ok](http://zccl.xyz/5xcS)
-* Основной [dlive](http://zccl.xyz/RxcS)
-* Основной [trovo](http://zccl.xyz/6xcS)
-* Основной [wasd](http://zccl.xyz/TxcS)
+* Основной [matrix](http://ccl.su/CwcS)
+* Основной [vk](http://ccl.su/1xcS)
+* Основной [youtube](http://ccl.su/2xcS)
+* Основной [twitch](http://ccl.su/3xcS)
+* Основной [telegram](http://ccl.su/4xcS)
+* Основной [ok](http://ccl.su/5xcS)
+* Основной [dlive](http://ccl.su/RxcS)
+* Основной [trovo](http://ccl.su/6xcS)
+* Основной [wasd](http://ccl.su/TxcS)
 
 # Пожертвование (Мани на лечение наших пациентов)
 [![donate.png](https://github.com/AliensRedSoftware/slim-space/blob/main/img/donate.png)](https://github.com/AliensRedSoftware/slim-space/blob/main/img/donate.png)
 \ Описание:При пожертвование возможно реклама пожалуйста будьте немного бдительным проходите рекламу бесплатно
 
 [![paypal.svg](https://github.com/AliensRedSoftware/slim-space/blob/main/img/paypal.svg)](https://github.com/AliensRedSoftware/slim-space/blob/main/img/paypal.svg)
-* Основной paypal [Пожертвовать](http://zccl.xyz/8xcS)
+* Основной paypal [Пожертвовать](http://ccl.su/8xcS)
 
 [![qiwi.svg](https://github.com/AliensRedSoftware/slim-space/blob/main/img/qiwi.svg)](https://github.com/AliensRedSoftware/slim-space/blob/main/img/qiwi.svg)
-* Основной Qiwi [Пожертвовать](http://zccl.xyz/9xcS)
+* Основной Qiwi [Пожертвовать](http://ccl.su/9xcS)
 
 [![bitcoin.png](https://github.com/AliensRedSoftware/slim-space/blob/main/img/bitcoin.png)](https://github.com/AliensRedSoftware/slim-space/blob/main/img/bitcoin.png)
 * Основной Bitcoin [Пожертвовать] => bc1q7d4r5ukyuvr2g6gnaj6xjr3nxzmgm3pdqrwct6
